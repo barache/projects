@@ -1,0 +1,8 @@
+com\example\demo\DemoApplication.class
+com\example\service\CommentaireService.class
+com\example\commentaireDao\CommentaireDao.class
+com\example\repository\CommentaireRepository.class
+com\example\controlleur\CommentaireControlleur.class
+com\example\demo\AppController.class
+com\example\service\CommentaireServiceImpl.class
+com\example\modele\Commentaire.class
